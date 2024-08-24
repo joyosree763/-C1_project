@@ -2,8 +2,12 @@
 
 ## TODO
 
--Intro
--Heading
--Paragraphs
--Image
+.Intro
+
+.Heading
+
+.Paragraphs
+
+.Image 
+
   
